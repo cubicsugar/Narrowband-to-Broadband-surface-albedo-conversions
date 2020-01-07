@@ -1,0 +1,1 @@
+./sbdart.exe >> test.txt

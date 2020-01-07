@@ -1,0 +1,16 @@
+WARNING >>>>> CHEKIN--vertical temperature step may be too large for good accuracy
+
+######################################################################
+
+&INPUT
+ zout=0, 100
+ phi=0
+ uzen=0
+ sza=60
+ iout=10
+ isat=-1
+ isalb=-1
+ idatm=6
+ iaer=1
+ vis=50
+/
